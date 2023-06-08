@@ -18,8 +18,8 @@
 
 set -e
 
-export DEVICE=hltekor
-export DEVICE_COMMON=hlte-common
+export DEVICE=j3y17lte
+export DEVICE_COMMON=universal7570-common
 export VARIANT_COPYRIGHT_YEAR=2018
 export VENDOR=samsung
 
